@@ -1,3 +1,25 @@
+pix2pix.py
+
+M
+
+Type
+Text
+Size
+35 KB (35,615 bytes)
+Storage used
+0 bytesOwned by Ahsanullah University of Science and Technology
+Location
+pix2pix-tensorflow
+Creator
+me
+Modified
+Apr 26, 2020 by me
+Opened
+10:09 PM by me
+Created
+Mar 11, 2020
+Add a description
+Viewers can download
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -445,12 +467,12 @@ def create_model(inputs, targets):
         # minimizing -tf.log will try to get inputs to 1
         # predict_real => 1
         # predict_fake => 0
-        discrim_loss = tf.reduce_mean(-(tf.log(predict_real + EPS) + tf.log(1 - predict_fake + EPS)))
+        discrim_loss = tf.reduce_mean(-(tf.log1p(predict_real + EPS) + tf.log1p(1 - predict_fake + EPS)))
 
     with tf.name_scope("generator_loss"):
         # predict_fake => 1
         # abs(targets - outputs) => 0
-        gen_loss_GAN = tf.reduce_mean(-tf.log(predict_fake + EPS))
+        gen_loss_GAN = tf.reduce_mean(-tf.log1p(predict_fake + EPS))
         gen_loss_L1 = tf.reduce_mean(tf.abs(targets - outputs))
         gen_loss = gen_loss_GAN * a.gan_weight + gen_loss_L1 * a.l1_weight
 
