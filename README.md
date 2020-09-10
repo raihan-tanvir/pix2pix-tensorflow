@@ -47,23 +47,7 @@ python pix2pix.py \
 
 The test run will output an HTML file at `facades_test/index.html` that shows input/output/target image sets.
 
-If you have Docker installed, you can use the provided Docker image to run pix2pix without installing the correct version of Tensorflow:
 
-```sh
-# train the model
-python tools/dockrun.py python pix2pix.py \
-      --mode train \
-      --output_dir facades_train \
-      --max_epochs 200 \
-      --input_dir facades/train \
-      --which_direction BtoA
-# test the model
-python tools/dockrun.py python pix2pix.py \
-      --mode test \
-      --output_dir facades_test \
-      --input_dir facades/val \
-      --checkpoint facades_train
-```
 
 ## Datasets and Trained Models
 
@@ -75,7 +59,7 @@ For example:
 
 <img src="docs/418.png" width="256px"/>
 
-Some datasets have been made available by the authors of the pix2pix paper.  To download those datasets, use the included script `tools/download-dataset.py`.  There are also links to pre-trained models alongside each dataset, note that these pre-trained models require the current version of pix2pix.py:
+### Datasets Link
 
 | dataset | example |
 | --- | --- |
