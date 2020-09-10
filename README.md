@@ -49,21 +49,21 @@ The test run will output an HTML file at `output/index.html` that shows input/ou
 
 The data format used by this program is the same as the original pix2pix format, which consists of images of input and desired output side by side like:
 
-<img src="docs/ab.png" width="256px"/>
+<img src="docs/ab.png" width="512px"/>
 
 For example:
 
-<img src="docs/418.png" width="256px"/>
+<img src="docs/163_AB.png" width="512px"/>
 
 ### Datasets Link
 
 | dataset | example |
 | --- | --- |
-| [JamdaniNoksha-B Dataset](https://drive.google.com/drive/folders/1IwyV8yg4fVTvPFcD9fHg1Dpyw5xwInS1?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="256px"/> |
-| [JamdaniNoksha-BRes Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="256px"/> |
-| [JamdaniNoksha-Skel dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 7932 images   | <img src="dataset-example/Skel.png" width="256px"/> |
-| [JamdaniNoksha-RedB dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="256px"/> |
-| [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="256px"/> |
+| [JamdaniNoksha-B Dataset](https://drive.google.com/drive/folders/1IwyV8yg4fVTvPFcD9fHg1Dpyw5xwInS1?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="512px"/> |
+| [JamdaniNoksha-BRes Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="512px"/> |
+| [JamdaniNoksha-Skel dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 7932 images   | <img src="dataset-example/Skel.png" width="512px"/> |
+| [JamdaniNoksha-RedB dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="512px"/> |
+| [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="512px"/> |
 
 
 ## Acknowledgments
