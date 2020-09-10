@@ -4,7 +4,7 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 [Article about this implemention](https://affinelayer.com/pix2pix/)
 
-[Interactive Demo]![Alt Text](https://i.imgur.com/4r83NO3.gif)
+[Interactive Demo](https://i.imgur.com/4r83NO3.gif)
 
 
 Tensorflow implementation of pix2pix.  Learns a mapping from input images to output images, like these examples from the original paper:
