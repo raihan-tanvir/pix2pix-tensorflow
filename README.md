@@ -26,26 +26,24 @@ This port is based directly on the torch implementation, and not on an existing 
 
 ```sh
 # clone this repo
-git clone https://github.com/affinelayer/pix2pix-tensorflow.git
-cd pix2pix-tensorflow
-# download the CMP Facades dataset (generated from http://cmp.felk.cvut.cz/~tylecr1/facade/)
-python tools/download-dataset.py facades
-# train the model (this may take 1-8 hours depending on GPU, on CPU you will be waiting for a bit)
+git clone https://github.com/raihan-tanvir/generative-jamdani.git
+cd generative-jamdani
+
 python pix2pix.py \
   --mode train \
-  --output_dir facades_train \
-  --max_epochs 200 \
-  --input_dir facades/train \
+  --output_dir model/ \
+  --max_epochs 150 \
+  --input_dir dataset/train \
   --which_direction BtoA
 # test the model
 python pix2pix.py \
   --mode test \
-  --output_dir facades_test \
-  --input_dir facades/val \
-  --checkpoint facades_train
+  --output_dir output/ \
+  --input_dir dataset/test \
+  --checkpoint model/
 ```
 
-The test run will output an HTML file at `facades_test/index.html` that shows input/output/target image sets.
+The test run will output an HTML file at `output/index.html` that shows input/output/target image sets.
 
 
 
