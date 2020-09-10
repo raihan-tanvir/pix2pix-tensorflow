@@ -4,7 +4,7 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 [Article about this implemention](https://affinelayer.com/pix2pix/)
 
-[Interactive Demo]
+## Interactive Demo
 ![Demo](https://i.imgur.com/4r83NO3.gif)
 
 
