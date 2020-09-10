@@ -59,11 +59,11 @@ For example:
 
 | dataset | example |
 | --- | --- |
-| [JamdaniNoksha-B Dataset](https://drive.google.com/drive/folders/1IwyV8yg4fVTvPFcD9fHg1Dpyw5xwInS1?usp=sharing)  <br> 1116 images   | <img src="docs/facades.jpg" width="256px"/> |
-| [JamdaniNoksha-BRes Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 1983 images   | <img src="docs/facades.jpg" width="256px"/> |
-| [JamdaniNoksha-Skel dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 7932 images   | <img src="docs/facades.jpg" width="256px"/> |
-| [JamdaniNoksha-RedB dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="docs/facades.jpg" width="256px"/> |
-| [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="docs/facades.jpg" width="256px"/> |
+| [JamdaniNoksha-B Dataset](https://drive.google.com/drive/folders/1IwyV8yg4fVTvPFcD9fHg1Dpyw5xwInS1?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="256px"/> |
+| [JamdaniNoksha-BRes Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.jpg" width="256px"/> |
+| [JamdaniNoksha-Skel dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 7932 images   | <img src="dataset-example/Skel.jpg" width="256px"/> |
+| [JamdaniNoksha-RedB dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.jpg" width="256px"/> |
+| [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.jpg" width="256px"/> |
 
 
 ## Acknowledgments
