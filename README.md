@@ -65,6 +65,16 @@ For example:
 | [JamdaniNoksha-RedB Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="256px"/> |
 | [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="256px"/> |
 
+## Citation
+
+```
+@article{generative-jamdani,
+  title={Jamdani Motif Generation using Conditional GAN},
+  author={Tanvir Rouf Shawon, Raihan Tanvir, Humaira Ferdous Shifa, Susmoy Kar, Mohammad Imrul Jubair},
+  conference={ICCT},
+  year={2020}
+}
+```
 
 ## Acknowledgments
 This is a implementation of [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) on **Jamdani Noksha** dataset.  Thanks to the Tensorflow [Affinelayer](https://github.com/affinelayer) for making such a wonderful port!  And special thanks to Phillip Isola for the original [pix2pix](https://phillipi.github.io/pix2pix/).
