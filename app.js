@@ -25,6 +25,8 @@ function setup() {
     clearCanvas();
     background(255, 255, 255);
 	statusMsg.html('Canvas Cleared!');
+    output.elt.src="images/blank.png";
+
   });
 
   randomBtn = select('#randomBtn');
