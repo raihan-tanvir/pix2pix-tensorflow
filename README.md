@@ -68,10 +68,11 @@ For example:
 ## Citation
 
 ```
-@article{generative-jamdani,
+@inproceedings{generative-jamdani,
   title={Jamdani Motif Generation using Conditional GAN},
   author={Tanvir Rouf Shawon, Raihan Tanvir, Humaira Ferdous Shifa, Susmoy Kar, Mohammad Imrul Jubair},
-  conference={ICCT},
+  publisher={International Conference on Computer and Information Technology},
+  venue={Ahsanullah University of Science & Technology, Dhaka, Bangadesh},
   year={2020}
 }
 ```
