@@ -35,7 +35,7 @@ function setup() {
 	'images/input_16.png','images/input_17.png','images/input_18.png','images/input_19.png','images/input_20.png'];
     let index = int(random(0, 20));
     inputImg = loadImage(src[index], drawImage);
-	
+	output.elt.src="images/blank.png";
 	statusMsg.html('Random Sketch Selected');
   });
 
