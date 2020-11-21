@@ -24,7 +24,7 @@ function setup() {
   clearBtn.mousePressed(function() {
     clearCanvas();
     background(255, 255, 255);
-	statusMsg.html('Canvas Cleared!');
+	statusMsg.html('Draw your own sketch or select a preset one!');
     output.elt.src="images/blank.png";
 
   });
