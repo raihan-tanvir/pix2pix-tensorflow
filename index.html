@@ -8,7 +8,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Generative Jamdani</title>
+  <title>Generative Jamdani---Based on Pix2Pix</title>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
@@ -17,7 +17,11 @@
 </head>
 
 <body>
-  <p id="status">Loading Model... Please wait...</p>
+  <p>====================================</p>
+  <h1>Jamdani Artist</h1>
+  <p>====================================</p>
+    <p id="status">Loading Model... Please wait...</p>
+
   <div id="app">
     <div id="input"></div>
     <img id="output" src="images/blank.png">
@@ -25,14 +29,16 @@
   <div id="colors">
     <p>Brush Size</p>
     <input type="range" id="size" min="1" max="50" value="1">
-   
+    <p></p>
+    <div id="red"></div>
+    <div id="blue"></div>
   </div>
   <div id="buttons">
+    <button id="randomBtn">Preset Sketch</button>
     <button id="clearBtn">Clear</button>
-    <button id="transferBtn">Transfer</button>
+    <button id="transferBtn">Convert</button>
   </div>
-
-  <script src="sketch.js"></script>
+  <script src="app.js"></script>
 </body>
 
 </html>
