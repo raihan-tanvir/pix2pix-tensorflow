@@ -1,25 +1,3 @@
-pix2pix.py
-
-M
-
-Type
-Text
-Size
-35 KB (35,615 bytes)
-Storage used
-0 bytesOwned by Ahsanullah University of Science and Technology
-Location
-pix2pix-tensorflow
-Creator
-me
-Modified
-Apr 26, 2020 by me
-Opened
-10:09 PM by me
-Created
-Mar 11, 2020
-Add a description
-Viewers can download
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
