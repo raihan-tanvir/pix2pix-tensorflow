@@ -71,7 +71,7 @@ For example:
 ```
 @inproceedings{generative-jamdani,
   title={Jamdani Motif Generation using Conditional GAN},
-  author={Tanvir Rouf Shawon, Raihan Tanvir, Humaira Ferdous Shifa, Susmoy Kar, Mohammad Imrul Jubair},
+  author={Md. Tanvir Rouf Shawon, Raihan Tanvir, Humaira Ferdous Shifa, Susmoy Kar, Mohammad Imrul Jubair},
   publisher={International Conference on Computer and Information Technology},
   venue={Ahsanullah University of Science & Technology, Dhaka, Bangadesh},
   year={2020}
