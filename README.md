@@ -60,8 +60,8 @@ For example:
 
 | dataset | example |
 | --- | --- |
-| [JamdaniNoksha-B Dataset](https://drive.google.com/drive/folders/1IwyV8yg4fVTvPFcD9fHg1Dpyw5xwInS1?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="256px"/> |
-| [JamdaniNoksha-BRes Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="256px"/> |
+| [Boundary Version Dataset](https://drive.google.com/file/d/1FXT7VDTgG_pOlCswMHM8iwkKHY1i09ZK/view?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="256px"/> |
+| [Enhanched Resolution Version Dataset](https://drive.google.com/file/d/1JcY-IpFnS4HPB971URWm_S5IwvmSkPBK/view?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="256px"/> |
 | [JamdaniNoksha-Skel Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 7932 images   | <img src="dataset-example/Skel.png" width="256px"/> |
 | [JamdaniNoksha-RedB Dataset](https://drive.google.com/drive/folders/1SWFlNSUujRiI7KC7sTODL1vcLqCfVN3V?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="256px"/> |
 | [JamdaniNoksha-Sketch Dataset](https://drive.google.com/drive/folders/1eJCgAg2jGYjmqqe3e26QYSJIKmbhu51D?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="256px"/> |
