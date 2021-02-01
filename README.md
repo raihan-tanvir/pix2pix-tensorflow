@@ -66,6 +66,7 @@ For example:
 | [Reduced Version](https://drive.google.com/file/d/1oGaw855PJ8bgsgeYHuRuILySCBrYHeHw/view?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="256px"/> |
 | [Sketch Version](https://drive.google.com/file/d/1jqiTwuHEbA0-67ySXimeOt6tgQ-7ykNX/view?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="256px"/> |
 
+Or download the entire **Jamdani Noksha** dataset from [here](https://drive.google.com/drive/folders/1KeBy95wJmZ2_X8-V3HyuJvqzjSO_ml9t?usp=sharing)
 
 ## Citation
 
