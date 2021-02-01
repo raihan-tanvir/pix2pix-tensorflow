@@ -1,8 +1,7 @@
 # Generative-Jamdani
 
 Based on [pix2pix-tensorflow](https://affinelayer.com/pix2pix/) which is tensorflow port of [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
-Visit 
-[Jamdani Artist](raihan-tanvir.github.io/generative-jamdani)  to see the live demonstration.
+Visit [Jamdani Artist](http://www.raihantanvir.tech/generative-jamdani/)  to see the live demonstration.
 
 ## Interactive Demo
 ![Demo](https://i.imgur.com/4r83NO3.gif)
